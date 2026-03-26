@@ -1,15 +1,10 @@
 /*
- * File        : AngkaSialException.java
+ * File        : AngkaSial.java
  * Deskripsi   : Program penggunaan esception sendiri. pengenalan klausa 'throw' dan 'throws'
  * Pembuat     : Daniel Lamganda Tua Gultom
  * Tanggal     : 26/03/2026 - 14.32
  */
 
-/**
- * File : AngkaSial.java
- * Deskripsi : Program penggunaan exception buatan sendiri
- *             Pengenalan klausa 'throw' dan 'throws'
- */
 public class AngkaSial {
 
     public void cobaAngka(int angka) throws AngkaSialException {
